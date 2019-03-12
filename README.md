@@ -2,6 +2,8 @@
 
 [oss-file-server](https://github.com/QSUED-Teams/oss-file-server) 齐圣前端组图片上传工具，阿里云OSS。
 
+详细使用方法请查看例子
+
 ## Build Setup
 
 ``` bash
@@ -20,7 +22,7 @@ npm run build --report
 
 ## Demo
 
-[https://qsued-teams.github.io/oss-file-server/dist/](https://qsued-teams.github.io/oss-file-server/dist/index.html/#/)
+[https://qsued-teams.github.io/oss-file-server/dist/](https://qsued-teams.github.io/oss-file-server/dist/)
 
 
 ![](http://public.hzqisheng.cn/Fu76iS1tMfNP-zt1SLxBJ0HWp2he)
