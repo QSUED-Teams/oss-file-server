@@ -8,7 +8,7 @@ import VueClipboard from 'vue-clipboard2'
 
 Vue.use(ElementUI)
 Vue.use(VueClipboard)
-
+window.Promise = Promise;
 
 
 router.beforeEach((to, from, next) => {
