@@ -20,7 +20,7 @@ npm run build --report
 
 ## Demo
 
-[https://qsued-teams.github.io/oss-file-server/dist/](https://qsued-teams.github.io/oss-file-server/dist/)
+[https://qsued-teams.github.io/oss-file-server/dist/](https://qsued-teams.github.io/oss-file-server/dist/index.html/#/)
 
 
 ![](http://public.hzqisheng.cn/Fu76iS1tMfNP-zt1SLxBJ0HWp2he)
